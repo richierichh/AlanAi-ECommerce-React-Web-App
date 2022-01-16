@@ -12,6 +12,8 @@ Implemented voice integration in a ECommerce website layout using Alan.ai allowi
 8. Run "npm start" in terminal 
 9. Allow mic permissions in browser
 
+### `functionalities`
+
 ### `AlanAi script`
 intent ("(open|view) (the|) cart", p=>{
     p.play({ command:'open-cart' })
